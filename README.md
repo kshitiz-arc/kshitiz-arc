@@ -15,9 +15,9 @@
 
 <br>
 
-I teach mathematics. I also do research in Applied Machine Learning for Fluid Dynamics. The two things aren't as separate as they sound — both are about finding structure in complexity.
+I teach mathematics. I also do research in Applied Machine Learning for Fluid Dynamics. The two things aren't as separate as they sound both are about finding structure in complexity.
 
-Outside the classroom and the lab, I'm building **Tungston Theory** — a gamified intelligence system designed to change how students relate to mathematical thinking. Not faster problem-solving. Different perception.
+Outside the classroom and the lab, I'm building **Tungston Theory** a gamified intelligence system designed to change how students relate to mathematical thinking. Not faster problem-solving. Different perception.
 
 ---
 
