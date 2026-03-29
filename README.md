@@ -19,8 +19,6 @@ I teach mathematics. I also do research in Applied Machine Learning for Fluid Dy
 
 Outside the classroom and the lab, I'm building **Tungston Theory** — a gamified intelligence system designed to change how students relate to mathematical thinking. Not faster problem-solving. Different perception.
 
-I mentor 20+ underprivileged students in rural Ranchi on the side, because access to good mathematical reasoning shouldn't depend on a zip code.
-
 ---
 
 <br>
@@ -31,21 +29,21 @@ I mentor 20+ underprivileged students in rural Ranchi on the side, because acces
   ┌──────────────────────────────────────────────────────────────────┐
   │                                                                  │
   │   KSHITIZ KUMAR SINHA                                            │
-  │   Mathematics Teacher  ×  ML Researcher  ×  System Builder      │
+  │   Mathematics Teacher  ×  ML Researcher  ×  System Builder       │
   │                                                                  │
   ├──────────────────────────────────────────────────────────────────┤
   │                                                                  │
-  │   STR   ███████████░   Mathematics          M.Sc · PhD (2028)   │
-  │   INT   ████████████   Machine Learning     Applied ML · CV     │
-  │   WIS   ██████████░░   Pedagogy             CTET · 2+ yrs CBSE  │
-  │   DEX   █████████░░░   Computer Vision      PyTorch · YOLOv8    │
+  │   STR   ███████████░   Mathematics          M.Sc · PhD (2028)    │
+  │   INT   ████████████   Machine Learning     Applied ML · CV      │
+  │   WIS   ██████████░░   Pedagogy             CTET · 2+ yrs CBSE   │
+  │   DEX   █████████░░░   Computer Vision      PyTorch · YOLOv8     │
   │   CHA   ██████████░░   Mentorship           240+ students        │
   │                                                                  │
   ├──────────────────────────────────────────────────────────────────┤
   │                                                                  │
-  │   ACTIVE   ▸ Tungston Theory — gamified maths intelligence      │
-  │   ONGOING  ▸ PhD — Applied ML for Fluid Dynamics (2025–2028)    │
-  │   ONGOING  ▸ Mentor — 20+ rural students, Ranchi                │
+  │   ACTIVE   ▸ Tungston Theory — gamified maths intelligence       │
+  │   ONGOING  ▸ PhD — Applied ML for Fluid Dynamics (2025–2028)     │
+  │   ONGOING  ▸ Mentor — 20+ rural students, Ranchi                 │
   │                                                                  │
   └──────────────────────────────────────────────────────────────────┘
 ```
@@ -58,17 +56,17 @@ I mentor 20+ underprivileged students in rural Ranchi on the side, because acces
 
 ```
   ┌──────────────────────┐  ┌──────────────────────┐  ┌──────────────────────┐
-  │  DOUBLE MASTER       │  │  STATE CERTIFIED      │  │  RESEARCHER          │
-  │                      │  │                       │  │                      │
-  │  M.Sc Mathematics    │  │  CTET Paper I & II    │  │  PhD Candidacy       │
-  │  St. Xavier's        │  │  Central Govt Board   │  │  ML × Fluid Dynamics │
+  │  DOUBLE MASTER       │  │  STATE CERTIFIED     │  │  RESEARCHER          │
+  │                      │  │                      │  │                      │
+  │  M.Sc Mathematics    │  │  CTET Paper I & II   │  │  PhD Candidacy       │
+  │  St. Xavier's        │  │  Central Govt Board  │  │  ML × Fluid Dynamics │
   └──────────────────────┘  └──────────────────────┘  └──────────────────────┘
 
   ┌──────────────────────┐  ┌──────────────────────┐  ┌──────────────────────┐
-  │  INSTRUCTOR          │  │  AI EDUCATOR          │  │  MENTOR              │
-  │                      │  │                       │  │                      │
-  │  240+ CBSE students  │  │  Claude · GPT-4       │  │  Rural Ranchi        │
-  │  Classes IX–X        │  │  Midjourney · DALL-E  │  │  20+ students        │
+  │  INSTRUCTOR          │  │  AI EDUCATOR         │  │  MENTOR              │
+  │                      │  │                      │  │                      │
+  │  240+ CBSE students  │  │  Claude · GPT-4      │  │  Rural Ranchi        │
+  │  Classes IX–X        │  │  Midjourney · DALL-E │  │  20+ students        │
   └──────────────────────┘  └──────────────────────┘  └──────────────────────┘
 ```
 
