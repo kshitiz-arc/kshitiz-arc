@@ -52,27 +52,6 @@ Outside the classroom and the lab, I'm building **Tungston Theory** a gamified i
 
 ---
 
-### Achievements
-
-```
-  ┌──────────────────────┐  ┌──────────────────────┐  ┌──────────────────────┐
-  │      MASTER'S        │  │  STATE CERTIFIED     │  │  RESEARCHER          │
-  │                      │  │                      │  │                      │
-  │  M.Sc Mathematics    │  │  CTET Paper I & II   │  │  PhD Candidacy       │
-  │  St. Xavier's        │  │  Central Govt Board  │  │  ML × Fluid Dynamics │
-  └──────────────────────┘  └──────────────────────┘  └──────────────────────┘
-
-  ┌──────────────────────┐  ┌──────────────────────┐  ┌──────────────────────┐
-  │  INSTRUCTOR          │  │  AI EDUCATOR         │  │  MENTOR              │
-  │                      │  │                      │  │                      │
-  │  240+ CBSE students  │  │  Claude · GPT-4      │  │  Rural Ranchi        │
-  │  Classes IX–X        │  │  Midjourney · DALL-E │  │  20+ students        │
-  └──────────────────────┘  └──────────────────────┘  └──────────────────────┘
-```
-
-<br>
-
----
 
 ### Projects
 
