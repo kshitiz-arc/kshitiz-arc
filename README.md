@@ -56,7 +56,7 @@ Outside the classroom and the lab, I'm building **Tungston Theory** — a gamifi
 
 ```
   ┌──────────────────────┐  ┌──────────────────────┐  ┌──────────────────────┐
-  │  DOUBLE MASTER       │  │  STATE CERTIFIED     │  │  RESEARCHER          │
+  │      MASTER'S        │  │  STATE CERTIFIED     │  │  RESEARCHER          │
   │                      │  │                      │  │                      │
   │  M.Sc Mathematics    │  │  CTET Paper I & II   │  │  PhD Candidacy       │
   │  St. Xavier's        │  │  Central Govt Board  │  │  ML × Fluid Dynamics │
