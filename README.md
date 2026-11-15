@@ -6,7 +6,7 @@
 
 *PhD Candidate @ Sarala Birla University · Ranchi, India*
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/kshitiz.sinha97)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/kshitiz.sinha94)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kshitiz47)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/thatkshitiz)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thatkshitiz@gmail.com)
